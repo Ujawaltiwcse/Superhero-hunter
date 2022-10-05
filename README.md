@@ -1,10 +1,8 @@
-# Superhero-hunter
+# Superhero-hunte
 
-#Deployed Link:
-
-#Deployed Link By netlify: https://superhero-hunter-proj2.netlify.app
-
-#Video Explanation Link: 
+#Git Repository link: https://github.com/Ujawaltiwcse/Superhero-hunter
+#Video link: https://screenrec.com/share/kUfjiz0oVA
+#Hosted link: https://superhero-hunter-proj2.netlify.app
 
 Technology We Used 💻
 HTML5
